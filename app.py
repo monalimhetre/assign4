@@ -5,7 +5,6 @@ import time
 import csv
 import random
 import sys,os
-from dateutil import parser
 import csv
    
 
