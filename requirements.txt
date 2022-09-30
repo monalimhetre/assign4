@@ -30,7 +30,7 @@ importlib-metadata==1.7.0
 itsdangerous==0.24
 Jinja2==2.10
 jmespath==0.10.0
-joblib==0.16.0
+joblib==1.2.0
 kiwisolver==1.2.0
 MarkupSafe==1.0
 matplotlib==3.3.0
